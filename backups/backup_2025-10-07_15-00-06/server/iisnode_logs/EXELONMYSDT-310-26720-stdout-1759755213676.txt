@@ -1,0 +1,3 @@
+Server is running on port \\.\pipe\5f17dc8d-aa0c-49a2-8f78-4af34011ad05.
+Connected to the SQLite database.
+Admin user created

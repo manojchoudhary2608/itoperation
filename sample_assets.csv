@@ -1,0 +1,4 @@
+asset_tag,serial_number,asset_type,make,model,assigned_to,gaid,email_id,status,cpu,ram,storage,purchase_date,warranty_expiration_date,notes,monitor1_asset_tag,monitor1_serial_number,monitor2_asset_tag,monitor2_serial_number,headset_asset_tag,headset_serial_number,yubikey_number,webcam_number,reporting_manager,manager_email_id
+TAG001,SN001,Laptop,Dell,Latitude,John Doe,GAID123,john.doe@example.com,Assigned,i7,16GB,512GB SSD,2023-01-15,2026-01-15,New laptop for John,MONTAG001,MONSN001,MONTAG002,MONSN002,HSTAG001,HSSN001,YBK001,WBCM001,Jane Manager,jane.manager@example.com
+TAG002,SN002,Desktop,HP,EliteDesk,Jane Smith,GAID124,jane.smith@example.com,In Stock,,,,,,,,,TAG002,SN002,Desktop,HP,EliteDesk,Jane Smith,GAID124,jane.smith@example.com,In Stock,,,,,,,,,,
+TAG003,SN003,Monitor,LG,UltraGear,Peter Jones,GAID125,peter.jones@example.com,Assigned,,,,,,,,,,

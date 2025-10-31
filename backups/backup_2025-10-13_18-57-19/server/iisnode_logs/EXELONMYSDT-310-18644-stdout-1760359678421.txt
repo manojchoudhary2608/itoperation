@@ -1,0 +1,1609 @@
+Server is running on port \\.\pipe\b847d9d0-22bf-4135-9ede-1e98430c9442.
+Connected to the SQLite database.
+Attempting COMMIT;
+New Hires data from DB: [
+  {
+    id: 1,
+    name: 'Sabharathinam Nedunchezian',
+    address: '66, Anthonipuram, Suramangalam, Salem-636005.',
+    mobile_number: '9677825967 / 90800 59125',
+    date_of_joining: '06-02-2025',
+    status: 'Close'
+  },
+  {
+    id: 2,
+    name: 'Gokulnath Kothandarman',
+    address: '57/35, Mulluvadi Ambethkar St-1, Gugai, Salem - 636006.',
+    mobile_number: '9790091142 / 7339094474',
+    date_of_joining: '06-02-2025',
+    status: 'Close'
+  },
+  {
+    id: 3,
+    name: 'Kumaresan Rangaswamy',
+    address: 'No. 46, 3rd Cross, 2nd Main, Maruthi Layout, Near Jai Hanuman Temple. Thammenahalli. Chikkabanawara post. Bengaluru. 560090',
+    mobile_number: '9916288486 / 9008751484',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 4,
+    name: 'Sarah Raja',
+    address: '194/19 kaveri Avenue, State Bank officers colony, CJ palazzio back side, Salem - 04',
+    mobile_number: '6380338673 / 7010030568',
+    date_of_joining: '06-05-2025',
+    status: 'Close'
+  },
+  {
+    id: 5,
+    name: 'Rajapriyan Mani',
+    address: '145/47 X Near Bus Stand Salem Main road, Mallasamudram, Tiruchengode tk Namakkal dt 637503',
+    mobile_number: '9944556651 / 9944666033',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 6,
+    name: 'Jagadeesh Manjunathaswmay ',
+    address: '#56, Krishna Nivas, 6th Cross, Muneshwara Layout, Laggere, Near Senappa Ground, Bengaluru - 560058',
+    mobile_number: '8660439254 / 9740287229',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 7,
+    name: 'Srilakshmi Chinnathambi',
+    address: '5/303, Kattur, Amani Kondalampatty, Nattamangalam P.O., Salem 636010 Landmark: Near AVM Hospital or Near NPR matriculation School',
+    mobile_number: '8526989900 / 9677434518',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 8,
+    name: 'Kalaivanan Iyyanar',
+    address: '9th Ward, 152/85 Sakthi Nagar, Masinayacanpatti (P.O), Ayodhiyappatinam, Salem -636103',
+    mobile_number: '8637487978 / 8248289200',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 9,
+    name: 'Swathi G',
+    address: 'No. 28/18A Vaigai Street Rajaji Nagar Villivakkam Chennai - 600049',
+    mobile_number: '9003493634 / 8248170122',
+    date_of_joining: '6/23/2025',
+    status: 'Close'
+  },
+  {
+    id: 10,
+    name: 'Dharani Angajala ',
+    address: 'House no:24 near Carrefood Super  Market, halehalli,Tc Palya, Kr Puram, Bangalore 560036.',
+    mobile_number: '6361651023 / 7416968741',
+    date_of_joining: '6/23/2025',
+    status: 'Close'
+  },
+  {
+    id: 11,
+    name: 'Nasereen Yaseen',
+    address: '1133/A1, Bazaar Street Mount Road Coonoor - 643102 ',
+    mobile_number: '9159613389 / 9688612341',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 12,
+    name: 'Karthik S',
+    address: '30/68 Vasaga Salai Street, 3rd Cross Ponnammapet, Salem - 636001',
+    mobile_number: '8608871518 / 8754652737',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 13,
+    name: 'Arul Nethra Devi',
+    address: '#152, KK Illam, 1st Floor,   4th A Cross, near Santosh Provision Stores,  Jagadish Nagar, NT Sandra Post, Bangalore 560075',
+    mobile_number: '9986030732 / 9886601398',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 14,
+    name: 'Mohan Krishna N',
+    address: 'No. 7439, opposite Lakkur Babu Apartment ,Sai Layout Malur (PO) Kolar (D.T) Karnataka  563130',
+    mobile_number: '7019232318 / 8050313830',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 15,
+    name: 'K Karthikeyan',
+    address: '5/102, Kaliamman Kovil Street, Nilavarapatty, Salem - 636201 Tamil Nadu',
+    mobile_number: '8015267355 / 8778985366',
+    date_of_joining: '9/15/2025',
+    status: 'Close'
+  },
+  {
+    id: 16,
+    name: 'Arunprasath Dhanasekaran',
+    address: 'No. 86 opposite to Ganesha temple  Near bairava PG for gents Backside of krishna theatre Bommanahalli Bangalore 560068',
+    mobile_number: '8778432981 /  8220906534',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 17,
+    name: 'Thejesh Srinivas',
+    address: '#224, A1 Block KHB Diamond Apartment, Beddi Colony Road, Kengeri, Bangalore - 560060',
+    mobile_number: '8861909765 or 6364365353 or 8217239640',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 18,
+    name: 'Lawrence T',
+    address: '1/512, Sabari Nagar, AGS Colony, 4th Cross Street, Mugalivakkam, Chennai 600125',
+    mobile_number: '9600037613 / 9677240954',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 19,
+    name: 'Karthick Selvam',
+    address: '79, Gandhi Nagar  Pethanaicken palayam  Attur  Salem 636109',
+    mobile_number: '8940619729 / 6382301682',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 20,
+    name: 'Manikandan Palanisamy',
+    address: '1/146, Raja Veethi, Alavaipatty (PO), Rasipuram (TK), Namakkal (DT), Tamil�Nadu, PIN: 637505',
+    mobile_number: '8838242851 / 9791595602',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 21,
+    name: 'Dinesh.V',
+    address: '102/166 KIRSNAPURAM COONOOR,  Coonoor RS.  The Nilgiris  Tamil Nadu 643102',
+    mobile_number: '7639394123 / 6380803372',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 22,
+    name: 'P Prasanna Kumar',
+    address: 'D.No. 9-73, Tapalaraj Street, Kuppam, Chittoor District, Andhra Pradesh State,  Pin Code - 517425',
+    mobile_number: '8247369164 / 9014321750�',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 23,
+    name: 'Sowrnalatha Satheeshkumar',
+    address: '6/90 A, Second Street, Sri Balaji Nagar, Rakkipalayam, Coimbatore - 641 031 Land mark : near Aquasub engineering unit 2',
+    mobile_number: '63852 54516 /  99943 78194',
+    date_of_joining: '7/21/2025',
+    status: 'Close'
+  },
+  {
+    id: 24,
+    name: 'Koushik Khutia',
+    address: 'Vill + P.O- Shibkali Nagar, P.S- Kakdwip, District- South 24 parganas, State- West Bengal, Pin- 743374',
+    mobile_number: '7602407189 / 8370885744',
+    date_of_joining: '8/18/2025',
+    status: 'Close'
+  },
+  {
+    id: 25,
+    name: 'Haripriya',
+    address: 'No 106, 8th Cross, New S.R. Nagar, B.G. Road, Near Bangalore Milk Dairy, Bangalore 560030',
+    mobile_number: '9901288247 / 7349148969',
+    date_of_joining: '8/25/2025',
+    status: 'Close'
+  },
+  {
+    id: 26,
+    name: 'M Manjunath Rao',
+    address: 'No. 4, 3rd Cross 9th Main, Akkiyappa Garden, Mohan Kumar Nagar, Yeshwantpur, Bangalore�560022',
+    mobile_number: '9986747047 / 7483137435',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 27,
+    name: 'MD Harestulla',
+    address: 'Baker Ali House, Village- Sadinagar, PO- Patni, PS- Kirnahar, Dist-  Birbhum, PIN-731302, West Bengal, India',
+    mobile_number: '9800085499 / 98002 73422',
+    date_of_joining: '09-08-2025',
+    status: 'Close'
+  },
+  {
+    id: 28,
+    name: 'Roopa GN',
+    address: 'No 18 Meghana Nilaya Mugalur grama, Sarjapura, near Maharishi school, Bangalore 562125.',
+    mobile_number: '9900572582 / 9964411267',
+    date_of_joining: '8/18/2025',
+    status: 'Close'
+  },
+  {
+    id: 29,
+    name: 'Asgar Ali',
+    address: '39/12 Old Line, Kamarhati, Kolkata - 700058 (near Kamarhati Union Collegiate High�School)',
+    mobile_number: '7980808309 / 9123932463',
+    date_of_joining: '9/15/2025',
+    status: 'Close'
+  },
+  {
+    id: 30,
+    name: 'Subhojit Dolui',
+    address: 'BD 63-66, Krishnakunja Apartment, Rabindrapally Market, Rabindrapally, Kestopur, Kolkata, West Bengal 700101',
+    mobile_number: '8981318699 / 8961714008',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 31,
+    name: 'Subash Chandra Bose Murugesan',
+    address: '19E, Govindasamy street, 6th ward, Kannankurichi, Salem-636008',
+    mobile_number: '6374898117 / 8754081113',
+    date_of_joining: '09-02-2025',
+    status: 'Close'
+  },
+  {
+    id: 32,
+    name: 'Priyanga Jaganathan',
+    address: 'Plot no 57, F1, First Floor, AGS colony, 4th cross street velachery, Chennai 600042',
+    mobile_number: '8072654194 / 8778440159',
+    date_of_joining: '09-08-2025',
+    status: 'Close'
+  },
+  {
+    id: 33,
+    name: 'Md Ali Raza',
+    address: ' Ramjanpur, Near Hanuman Mandir, Parasia, Dhanbad, Jharkhand-828301',
+    mobile_number: '9883675580 / 9507617063',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 34,
+    name: 'Pawan Kumar�Hukmi Chand',
+    address: '45/23 North Kasar Garden Street Aminjikarai Chennai - 600029',
+    mobile_number: '8122897516',
+    date_of_joining: '10-01-2025',
+    status: 'Close'
+  },
+  {
+    id: 35,
+    name: 'Gowthaman T',
+    address: '22, Pachagoundan Valasu,  Vellakovil - 638111,  Tiruppur (Dt), Tamilnadu.',
+    mobile_number: '9578088931 / 9095647311',
+    date_of_joining: '09-08-2025',
+    status: 'Close'
+  },
+  {
+    id: 36,
+    name: 'Venu Gopal R',
+    address: '#17, 3rd main road   Shivkumar swamiji road, Maruthinagar , Chikkabanavara  Bengaluru 560090',
+    mobile_number: '9945488977  or  9632557019',
+    date_of_joining: '09-08-2025',
+    status: 'Close'
+  },
+  {
+    id: 37,
+    name: 'Swetha Maria Pinto',
+    address: 'No.8-51/8, Starlet, Lord Krishna Estate, 2nd Left, Near Vishal Mart, Surathkal, Mangalore 575014',
+    mobile_number: '9008726254 / 9611278308',
+    date_of_joining: '09-10-2025',
+    status: 'Close'
+  },
+  {
+    id: 38,
+    name: 'Ramesh',
+    address: 'House No. D3/N-185-299/123, Near Rehamaniya School, Opposite Degree College Road, Devadurga, Raichur, Karnataka 584111',
+    mobile_number: '9741442514 / 8792174168',
+    date_of_joining: '10/20/2025',
+    status: 'Open'
+  },
+  {
+    id: 39,
+    name: 'MD Zafiruddin Ansari',
+    address: "299/242, Waris Pak Nagar, G. C. Road, Titagarh, North 24 paraganas, Kolkata 700119  Landmark: Children's Park & AL-Haram Store",
+    mobile_number: '7980041447 / 98832 89091 & 74399 57292',
+    date_of_joining: '10/20/2025',
+    status: 'Open'
+  },
+  {
+    id: 40,
+    name: 'Sathishkumar. D',
+    address: 'Sathishkumar. D, S/o, Duraisamy, 94, Kuppampalayam, Kasipalayam(Post), Uthukuli (Via), Chennimalai, Erode,�Tamilnadu, Pincode: 638751',
+    mobile_number: '9344938246 / 8300326486 & 9865887765',
+    date_of_joining: '9/22/2025',
+    status: 'Close'
+  },
+  {
+    id: 41,
+    name: 'Komala K',
+    address: 'No. 54, 3rd Floor, 3rd Cross, 5th Main Hanumagiri Nagar, Near Om Shakthi Temple, Chikkalasandra, Bangalore 560061',
+    mobile_number: '9164289142 OR 9900733510',
+    date_of_joining: '10-01-2025',
+    status: 'Close'
+  },
+  {
+    id: 42,
+    name: 'Shruthi V',
+    address: '#20, 15th Cross, Ravichandra Nilaya, BSK 2nd�Stage, Bendre Nagar, Bangalore - 560070',
+    mobile_number: '7829168757 / 9513389529',
+    date_of_joining: '10/27/2025',
+    status: 'Open'
+  },
+  {
+    id: 43,
+    name: 'C. Pradeep',
+    address: 'G7, SSVD Nisarga, 7th Main Road, Subash Nagar, Kenger i,   Satellite town, Bangalore -560060',
+    mobile_number: ' 9900866214 / 9591105373',
+    date_of_joining: '9/25/2025',
+    status: 'Close'
+  },
+  {
+    id: 44,
+    name: 'Sujatha Maliyappanapalya Chaluvaiah',
+    address: '# 19, Pattalamma Nilaya, Shabarinagar Nagar 1st Main Road, 1st right, Byatarayana Pura, Sahakar Nagar post, Bangalore 560092(Near by Brahmashri Condiments',
+    mobile_number: '9845659561, 7619323414 / 9739663119',
+    date_of_joining: '12-01-2025',
+    status: 'Open'
+  },
+  {
+    id: 45,
+    name: 'Prabhu Jaganathan',
+    address: '269, Ramani villas Ramaswamy nagar 1st Cross street  Narasothipatti Kurunchavadi Salem 636006 Tamilnadu',
+    mobile_number: ' 9788020733 / 8508605670',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 46,
+    name: 'Anantha V K',
+    address: 'No 244, B Block, 2nd floor, Urban Ecospace Sarjapura, Bangalore-562125.',
+    mobile_number: '9916037458 or  8105009623',
+    date_of_joining: '11/24/2025',
+    status: 'Open'
+  },
+  {
+    id: 47,
+    name: 'Madhu Sudhan Naidu K.',
+    address: '7-84/4 Revenue Colony Padhmavathipuram Tiruchanur Road Tirupati 517 501  Land Mark: Subbaiah Gari Hotel Road Karunkar Reddy (Ex MLA) house�back�side�road',
+    mobile_number: '85558 76459 / 93981�40492',
+    date_of_joining: '12-01-2025',
+    status: 'Open'
+  },
+  {
+    id: 48,
+    name: 'Prajwal Rao U C',
+    address: 'Building No. 127, Rajaji Nagar, Co-Operative Society LTD, Sri Gandada Kaval Ward No. 129, 7th main road 3rd floor, Gidadakonenahalli, Nagarabhavi 2nd stage, Bangalore - 560091',
+    mobile_number: '9900871255 or 9035004163',
+    date_of_joining: '10-01-2025',
+    status: 'Close'
+  },
+  {
+    id: 49,
+    name: 'Pavithra K',
+    address: '#63, 2nd Cross, 2nd�Stage, Kesare,�Hyderali�park, Mysore - 570007',
+    mobile_number: '9535234972 / 8217202991',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 50,
+    name: 'Hemanth J',
+    address: 'Manasi Nagar, Near Hari Govinda, Door Number 32, 28 Block, Mysuru-570029',
+    mobile_number: '8951683349 / 7795347694 / 7829821054',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 51,
+    name: 'Alfiya Mohammadi ',
+    address: 'Door no 52 behind Masi ul Ummat Rajiv nagar Mysore Pin code : 570019 Landmark : Al Badar Masjid',
+    mobile_number: '9008002219 / 7090946783',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 52,
+    name: 'Manjushree K',
+    address: '#3, Block no 32,1st cross, 2nd A main, shakthinagar, Mysuru -570019',
+    mobile_number: '9036216977 / 9945042697',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 53,
+    name: 'Monika P',
+    address: ' #4/1 NGO Colony Vinayakanagar Chamalapurada Hundi Nanjangud Mysore - 571301',
+    mobile_number: '8722944565 / 9113534313',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 54,
+    name: 'Pavan S',
+    address: '#43 3rd main 2nd cross m block ramakrishna nagar 570022 Mysore',
+    mobile_number: '9686955360  / 7204549410',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 55,
+    name: 'Jayanth T S',
+    address: 'House/Flat No: Pruthvi #21 Street/Area: Siddalingeshwara Layout 2nd Stage, J P Nagar Landmark: Near Sumithra Steels & Concrete City/District: Mysuru State: Karnataka Pincode: 570008',
+    mobile_number: '8123575094 / 9353053323',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 56,
+    name: 'Nandan S G',
+    address: '#43, 3rd Main, 2nd Cross, M Block, Ramakrishna Nagar, Mysore � 570022 Landmark: Yoga Park',
+    mobile_number: '7204549410 / 9686955360',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 57,
+    name: 'Asha Krishna�',
+    address: '#194 Basaveshwara Nagara,  Bogadi  Mysore, Karnataka  570026',
+    mobile_number: '9380657665�/ 9538342121�',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 58,
+    name: 'Malathi SM',
+    address: "#410, SGS'S Anuna  Apartment University layout, Mysore -570008 Land Mark - near Siddaramaiah Circle",
+    mobile_number: '8970519670 / 8971531370',
+    date_of_joining: '10-07-2025',
+    status: 'Open'
+  },
+  {
+    id: 59,
+    name: 'Pavan G',
+    address: '#145, MY-Sooru Green Valley Layout 3rd Cross, Shydanahalli MYSURU 570003 KARNATAKA',
+    mobile_number: '7483094034 /  91108 97159 / 9480491778',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 60,
+    name: 'Arokia Lawrence A',
+    address: 'S/O, S. Arockia Samy, 4/273-4, Amman Nagar Northstreet, Periyaputhur, Puthur Agraharam, Kondalampatti (PO), Tamil Nadu, Salem - 636010.',
+    mobile_number: '8144146538 or 9566324696',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 61,
+    name: 'Pavan G',
+    address: '# 06 Chowdenahalli heganahalli post Devanahalli taluka Bengaluru-562110',
+    mobile_number: '8197161933 or 9535434568',
+    date_of_joining: '11/17/2025',
+    status: 'Close'
+  },
+  {
+    id: 62,
+    name: 'Chaitrashree�Siddappaji',
+    address: ' #1245/1 RBI post Belavatha Graama Near maheshwara temple road Mysore 570003',
+    mobile_number: ' 6364159547 / 8095425725',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 63,
+    name: 'Nikhil M.R',
+    address: '#150, 3rd main road, 2nd stage, M Block, kuvempunagar, mysore',
+    mobile_number: '9901003926 / 9902982960',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 64,
+    name: 'Bhavana�P',
+    address: '# 1509 /4 1ST Cross soppinakere mandi mohalla mysore Karnataka 570001  Landmark : yallamadevi temple ',
+    mobile_number: '886756328 / 9738911968',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 65,
+    name: 'Sanjana C',
+    address: '#610 2nd main  M block, Kuvempunagar, Mysore - 570023  Land mark: Near Sharma Store',
+    mobile_number: '9019310314 / 9632333520',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 66,
+    name: 'Yashaswini Nayak G',
+    address: '#11887 RMP layout , near Sneha dental care ,next to CSR catering, Vijaynagra 4th stage Mysore.�',
+    mobile_number: '7996750289 or 9066839392',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 67,
+    name: 'Shilpa H S',
+    address: '46, 11th cross, Navilu road, Kuvempunagar, Mysore 23',
+    mobile_number: '9353930862 or 7348921417',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 68,
+    name: 'Manjesh R ',
+    address: '# 570 Nyayanga badavane behind christ public school mysore 570026',
+    mobile_number: '7090107625 or 9886182332',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 69,
+    name: 'Sachin H P',
+    address: '#08,HONNENAHALLI, KATTEMALALAVADI POST,  GAVADAGERE HOBLI, HUNSUR-571134',
+    mobile_number: '9380575234 or 8152952456',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 70,
+    name: 'Sunil Irappa Jangamashetti',
+    address: 'No.1873 Nandi Colony, Behind Canara Bank, Ankali-591213 Tq: Chikodi Dist: Belagavi, Karnataka State.',
+    mobile_number: '9886039838 or 9480037282',
+    date_of_joining: '10/13/2025',
+    status: 'Close'
+  },
+  {
+    id: 71,
+    name: 'Sathish Kumar V',
+    address: '4-221, Gandhi Nagar, Bound Street, Greamspet, Chittoor, 517001',
+    mobile_number: '6302590858 or 6304932628',
+    date_of_joining: '10/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 72,
+    name: 'Vasanthkumar R',
+    address: '#9/1  4thMain Road 7thCross N.G.R Layout Roopeana Agrahara Bangalore 560068',
+    mobile_number: '9902629013 or 9980089924',
+    date_of_joining: '10/16/2025',
+    status: 'Open'
+  },
+  {
+    id: 73,
+    name: 'Dhananjaya Ananthiah',
+    address: '#43, 3rd Cross, Vinayaka Layout 2nd Phase, Meddarahalli, Abbigere, Bengaluru-560090.',
+    mobile_number: '9886170015 / 9739552021.',
+    date_of_joining: '12/18/2025',
+    status: 'Open'
+  },
+  {
+    id: 74,
+    name: 'Sabharathinam Nedunchezian',
+    address: '66, Anthonipuram, Suramangalam, Salem-636005.',
+    mobile_number: '9677825967 / 90800 59125',
+    date_of_joining: '06-02-2025',
+    status: 'Close'
+  },
+  {
+    id: 75,
+    name: 'Gokulnath Kothandarman',
+    address: '57/35, Mulluvadi Ambethkar St-1, Gugai, Salem - 636006.',
+    mobile_number: '9790091142 / 7339094474',
+    date_of_joining: '06-02-2025',
+    status: 'Close'
+  },
+  {
+    id: 76,
+    name: 'Kumaresan Rangaswamy',
+    address: 'No. 46, 3rd Cross, 2nd Main, Maruthi Layout, Near Jai Hanuman Temple. Thammenahalli. Chikkabanawara post. Bengaluru. 560090',
+    mobile_number: '9916288486 / 9008751484',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 77,
+    name: 'Sarah Raja',
+    address: '194/19 kaveri Avenue, State Bank officers colony, CJ palazzio back side, Salem - 04',
+    mobile_number: '6380338673 / 7010030568',
+    date_of_joining: '06-05-2025',
+    status: 'Close'
+  },
+  {
+    id: 78,
+    name: 'Rajapriyan Mani',
+    address: '145/47 X Near Bus Stand Salem Main road, Mallasamudram, Tiruchengode tk Namakkal dt 637503',
+    mobile_number: '9944556651 / 9944666033',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 79,
+    name: 'Jagadeesh Manjunathaswmay ',
+    address: '#56, Krishna Nivas, 6th Cross, Muneshwara Layout, Laggere, Near Senappa Ground, Bengaluru - 560058',
+    mobile_number: '8660439254 / 9740287229',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 80,
+    name: 'Srilakshmi Chinnathambi',
+    address: '5/303, Kattur, Amani Kondalampatty, Nattamangalam P.O., Salem 636010 Landmark: Near AVM Hospital or Near NPR matriculation School',
+    mobile_number: '8526989900 / 9677434518',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 81,
+    name: 'Kalaivanan Iyyanar',
+    address: '9th Ward, 152/85 Sakthi Nagar, Masinayacanpatti (P.O), Ayodhiyappatinam, Salem -636103',
+    mobile_number: '8637487978 / 8248289200',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 82,
+    name: 'Swathi G',
+    address: 'No. 28/18A Vaigai Street Rajaji Nagar Villivakkam Chennai - 600049',
+    mobile_number: '9003493634 / 8248170122',
+    date_of_joining: '6/23/2025',
+    status: 'Close'
+  },
+  {
+    id: 83,
+    name: 'Dharani Angajala ',
+    address: 'House no:24 near Carrefood Super  Market, halehalli,Tc Palya, Kr Puram, Bangalore 560036.',
+    mobile_number: '6361651023 / 7416968741',
+    date_of_joining: '6/23/2025',
+    status: 'Close'
+  },
+  {
+    id: 84,
+    name: 'Nasereen Yaseen',
+    address: '1133/A1, Bazaar Street Mount Road Coonoor - 643102 ',
+    mobile_number: '9159613389 / 9688612341',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 85,
+    name: 'Karthik S',
+    address: '30/68 Vasaga Salai Street, 3rd Cross Ponnammapet, Salem - 636001',
+    mobile_number: '8608871518 / 8754652737',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 86,
+    name: 'Arul Nethra Devi',
+    address: '#152, KK Illam, 1st Floor,   4th A Cross, near Santosh Provision Stores,  Jagadish Nagar, NT Sandra Post, Bangalore 560075',
+    mobile_number: '9986030732 / 9886601398',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 87,
+    name: 'Mohan Krishna N',
+    address: 'No. 7439, opposite Lakkur Babu Apartment ,Sai Layout Malur (PO) Kolar (D.T) Karnataka  563130',
+    mobile_number: '7019232318 / 8050313830',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 88,
+    name: 'K Karthikeyan',
+    address: '5/102, Kaliamman Kovil Street, Nilavarapatty, Salem - 636201 Tamil Nadu',
+    mobile_number: '8015267355 / 8778985366',
+    date_of_joining: '9/15/2025',
+    status: 'Close'
+  },
+  {
+    id: 89,
+    name: 'Arunprasath Dhanasekaran',
+    address: 'No. 86 opposite to Ganesha temple  Near bairava PG for gents Backside of krishna theatre Bommanahalli Bangalore 560068',
+    mobile_number: '8778432981 /  8220906534',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 90,
+    name: 'Thejesh Srinivas',
+    address: '#224, A1 Block KHB Diamond Apartment, Beddi Colony Road, Kengeri, Bangalore - 560060',
+    mobile_number: '8861909765 or 6364365353 or 8217239640',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 91,
+    name: 'Lawrence T',
+    address: '1/512, Sabari Nagar, AGS Colony, 4th Cross Street, Mugalivakkam, Chennai 600125',
+    mobile_number: '9600037613 / 9677240954',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 92,
+    name: 'Karthick Selvam',
+    address: '79, Gandhi Nagar  Pethanaicken palayam  Attur  Salem 636109',
+    mobile_number: '8940619729 / 6382301682',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 93,
+    name: 'Manikandan Palanisamy',
+    address: '1/146, Raja Veethi, Alavaipatty (PO), Rasipuram (TK), Namakkal (DT), Tamil�Nadu, PIN: 637505',
+    mobile_number: '8838242851 / 9791595602',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 94,
+    name: 'Dinesh.V',
+    address: '102/166 KIRSNAPURAM COONOOR,  Coonoor RS.  The Nilgiris  Tamil Nadu 643102',
+    mobile_number: '7639394123 / 6380803372',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 95,
+    name: 'P Prasanna Kumar',
+    address: 'D.No. 9-73, Tapalaraj Street, Kuppam, Chittoor District, Andhra Pradesh State,  Pin Code - 517425',
+    mobile_number: '8247369164 / 9014321750�',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 96,
+    name: 'Sowrnalatha Satheeshkumar',
+    address: '6/90 A, Second Street, Sri Balaji Nagar, Rakkipalayam, Coimbatore - 641 031 Land mark : near Aquasub engineering unit 2',
+    mobile_number: '63852 54516 /  99943 78194',
+    date_of_joining: '7/21/2025',
+    status: 'Close'
+  },
+  {
+    id: 97,
+    name: 'Koushik Khutia',
+    address: 'Vill + P.O- Shibkali Nagar, P.S- Kakdwip, District- South 24 parganas, State- West Bengal, Pin- 743374',
+    mobile_number: '7602407189 / 8370885744',
+    date_of_joining: '8/18/2025',
+    status: 'Close'
+  },
+  {
+    id: 98,
+    name: 'Haripriya',
+    address: 'No 106, 8th Cross, New S.R. Nagar, B.G. Road, Near Bangalore Milk Dairy, Bangalore 560030',
+    mobile_number: '9901288247 / 7349148969',
+    date_of_joining: '8/25/2025',
+    status: 'Close'
+  },
+  {
+    id: 99,
+    name: 'M Manjunath Rao',
+    address: 'No. 4, 3rd Cross 9th Main, Akkiyappa Garden, Mohan Kumar Nagar, Yeshwantpur, Bangalore�560022',
+    mobile_number: '9986747047 / 7483137435',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 100,
+    name: 'MD Harestulla',
+    address: 'Baker Ali House, Village- Sadinagar, PO- Patni, PS- Kirnahar, Dist-  Birbhum, PIN-731302, West Bengal, India',
+    mobile_number: '9800085499 / 98002 73422',
+    date_of_joining: '09-08-2025',
+    status: 'Close'
+  },
+  ... 338 more items
+]
+New Hires data from DB: [
+  {
+    id: 1,
+    name: 'Sabharathinam Nedunchezian',
+    address: '66, Anthonipuram, Suramangalam, Salem-636005.',
+    mobile_number: '9677825967 / 90800 59125',
+    date_of_joining: '06-02-2025',
+    status: 'Close'
+  },
+  {
+    id: 2,
+    name: 'Gokulnath Kothandarman',
+    address: '57/35, Mulluvadi Ambethkar St-1, Gugai, Salem - 636006.',
+    mobile_number: '9790091142 / 7339094474',
+    date_of_joining: '06-02-2025',
+    status: 'Close'
+  },
+  {
+    id: 3,
+    name: 'Kumaresan Rangaswamy',
+    address: 'No. 46, 3rd Cross, 2nd Main, Maruthi Layout, Near Jai Hanuman Temple. Thammenahalli. Chikkabanawara post. Bengaluru. 560090',
+    mobile_number: '9916288486 / 9008751484',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 4,
+    name: 'Sarah Raja',
+    address: '194/19 kaveri Avenue, State Bank officers colony, CJ palazzio back side, Salem - 04',
+    mobile_number: '6380338673 / 7010030568',
+    date_of_joining: '06-05-2025',
+    status: 'Close'
+  },
+  {
+    id: 5,
+    name: 'Rajapriyan Mani',
+    address: '145/47 X Near Bus Stand Salem Main road, Mallasamudram, Tiruchengode tk Namakkal dt 637503',
+    mobile_number: '9944556651 / 9944666033',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 6,
+    name: 'Jagadeesh Manjunathaswmay ',
+    address: '#56, Krishna Nivas, 6th Cross, Muneshwara Layout, Laggere, Near Senappa Ground, Bengaluru - 560058',
+    mobile_number: '8660439254 / 9740287229',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 7,
+    name: 'Srilakshmi Chinnathambi',
+    address: '5/303, Kattur, Amani Kondalampatty, Nattamangalam P.O., Salem 636010 Landmark: Near AVM Hospital or Near NPR matriculation School',
+    mobile_number: '8526989900 / 9677434518',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 8,
+    name: 'Kalaivanan Iyyanar',
+    address: '9th Ward, 152/85 Sakthi Nagar, Masinayacanpatti (P.O), Ayodhiyappatinam, Salem -636103',
+    mobile_number: '8637487978 / 8248289200',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 9,
+    name: 'Swathi G',
+    address: 'No. 28/18A Vaigai Street Rajaji Nagar Villivakkam Chennai - 600049',
+    mobile_number: '9003493634 / 8248170122',
+    date_of_joining: '6/23/2025',
+    status: 'Close'
+  },
+  {
+    id: 10,
+    name: 'Dharani Angajala ',
+    address: 'House no:24 near Carrefood Super  Market, halehalli,Tc Palya, Kr Puram, Bangalore 560036.',
+    mobile_number: '6361651023 / 7416968741',
+    date_of_joining: '6/23/2025',
+    status: 'Close'
+  },
+  {
+    id: 11,
+    name: 'Nasereen Yaseen',
+    address: '1133/A1, Bazaar Street Mount Road Coonoor - 643102 ',
+    mobile_number: '9159613389 / 9688612341',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 12,
+    name: 'Karthik S',
+    address: '30/68 Vasaga Salai Street, 3rd Cross Ponnammapet, Salem - 636001',
+    mobile_number: '8608871518 / 8754652737',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 13,
+    name: 'Arul Nethra Devi',
+    address: '#152, KK Illam, 1st Floor,   4th A Cross, near Santosh Provision Stores,  Jagadish Nagar, NT Sandra Post, Bangalore 560075',
+    mobile_number: '9986030732 / 9886601398',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 14,
+    name: 'Mohan Krishna N',
+    address: 'No. 7439, opposite Lakkur Babu Apartment ,Sai Layout Malur (PO) Kolar (D.T) Karnataka  563130',
+    mobile_number: '7019232318 / 8050313830',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 15,
+    name: 'K Karthikeyan',
+    address: '5/102, Kaliamman Kovil Street, Nilavarapatty, Salem - 636201 Tamil Nadu',
+    mobile_number: '8015267355 / 8778985366',
+    date_of_joining: '9/15/2025',
+    status: 'Close'
+  },
+  {
+    id: 16,
+    name: 'Arunprasath Dhanasekaran',
+    address: 'No. 86 opposite to Ganesha temple  Near bairava PG for gents Backside of krishna theatre Bommanahalli Bangalore 560068',
+    mobile_number: '8778432981 /  8220906534',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 17,
+    name: 'Thejesh Srinivas',
+    address: '#224, A1 Block KHB Diamond Apartment, Beddi Colony Road, Kengeri, Bangalore - 560060',
+    mobile_number: '8861909765 or 6364365353 or 8217239640',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 18,
+    name: 'Lawrence T',
+    address: '1/512, Sabari Nagar, AGS Colony, 4th Cross Street, Mugalivakkam, Chennai 600125',
+    mobile_number: '9600037613 / 9677240954',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 19,
+    name: 'Karthick Selvam',
+    address: '79, Gandhi Nagar  Pethanaicken palayam  Attur  Salem 636109',
+    mobile_number: '8940619729 / 6382301682',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 20,
+    name: 'Manikandan Palanisamy',
+    address: '1/146, Raja Veethi, Alavaipatty (PO), Rasipuram (TK), Namakkal (DT), Tamil�Nadu, PIN: 637505',
+    mobile_number: '8838242851 / 9791595602',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 21,
+    name: 'Dinesh.V',
+    address: '102/166 KIRSNAPURAM COONOOR,  Coonoor RS.  The Nilgiris  Tamil Nadu 643102',
+    mobile_number: '7639394123 / 6380803372',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 22,
+    name: 'P Prasanna Kumar',
+    address: 'D.No. 9-73, Tapalaraj Street, Kuppam, Chittoor District, Andhra Pradesh State,  Pin Code - 517425',
+    mobile_number: '8247369164 / 9014321750�',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 23,
+    name: 'Sowrnalatha Satheeshkumar',
+    address: '6/90 A, Second Street, Sri Balaji Nagar, Rakkipalayam, Coimbatore - 641 031 Land mark : near Aquasub engineering unit 2',
+    mobile_number: '63852 54516 /  99943 78194',
+    date_of_joining: '7/21/2025',
+    status: 'Close'
+  },
+  {
+    id: 24,
+    name: 'Koushik Khutia',
+    address: 'Vill + P.O- Shibkali Nagar, P.S- Kakdwip, District- South 24 parganas, State- West Bengal, Pin- 743374',
+    mobile_number: '7602407189 / 8370885744',
+    date_of_joining: '8/18/2025',
+    status: 'Close'
+  },
+  {
+    id: 25,
+    name: 'Haripriya',
+    address: 'No 106, 8th Cross, New S.R. Nagar, B.G. Road, Near Bangalore Milk Dairy, Bangalore 560030',
+    mobile_number: '9901288247 / 7349148969',
+    date_of_joining: '8/25/2025',
+    status: 'Close'
+  },
+  {
+    id: 26,
+    name: 'M Manjunath Rao',
+    address: 'No. 4, 3rd Cross 9th Main, Akkiyappa Garden, Mohan Kumar Nagar, Yeshwantpur, Bangalore�560022',
+    mobile_number: '9986747047 / 7483137435',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 27,
+    name: 'MD Harestulla',
+    address: 'Baker Ali House, Village- Sadinagar, PO- Patni, PS- Kirnahar, Dist-  Birbhum, PIN-731302, West Bengal, India',
+    mobile_number: '9800085499 / 98002 73422',
+    date_of_joining: '09-08-2025',
+    status: 'Close'
+  },
+  {
+    id: 28,
+    name: 'Roopa GN',
+    address: 'No 18 Meghana Nilaya Mugalur grama, Sarjapura, near Maharishi school, Bangalore 562125.',
+    mobile_number: '9900572582 / 9964411267',
+    date_of_joining: '8/18/2025',
+    status: 'Close'
+  },
+  {
+    id: 29,
+    name: 'Asgar Ali',
+    address: '39/12 Old Line, Kamarhati, Kolkata - 700058 (near Kamarhati Union Collegiate High�School)',
+    mobile_number: '7980808309 / 9123932463',
+    date_of_joining: '9/15/2025',
+    status: 'Close'
+  },
+  {
+    id: 30,
+    name: 'Subhojit Dolui',
+    address: 'BD 63-66, Krishnakunja Apartment, Rabindrapally Market, Rabindrapally, Kestopur, Kolkata, West Bengal 700101',
+    mobile_number: '8981318699 / 8961714008',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 31,
+    name: 'Subash Chandra Bose Murugesan',
+    address: '19E, Govindasamy street, 6th ward, Kannankurichi, Salem-636008',
+    mobile_number: '6374898117 / 8754081113',
+    date_of_joining: '09-02-2025',
+    status: 'Close'
+  },
+  {
+    id: 32,
+    name: 'Priyanga Jaganathan',
+    address: 'Plot no 57, F1, First Floor, AGS colony, 4th cross street velachery, Chennai 600042',
+    mobile_number: '8072654194 / 8778440159',
+    date_of_joining: '09-08-2025',
+    status: 'Close'
+  },
+  {
+    id: 33,
+    name: 'Md Ali Raza',
+    address: ' Ramjanpur, Near Hanuman Mandir, Parasia, Dhanbad, Jharkhand-828301',
+    mobile_number: '9883675580 / 9507617063',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 34,
+    name: 'Pawan Kumar�Hukmi Chand',
+    address: '45/23 North Kasar Garden Street Aminjikarai Chennai - 600029',
+    mobile_number: '8122897516',
+    date_of_joining: '10-01-2025',
+    status: 'Close'
+  },
+  {
+    id: 35,
+    name: 'Gowthaman T',
+    address: '22, Pachagoundan Valasu,  Vellakovil - 638111,  Tiruppur (Dt), Tamilnadu.',
+    mobile_number: '9578088931 / 9095647311',
+    date_of_joining: '09-08-2025',
+    status: 'Close'
+  },
+  {
+    id: 36,
+    name: 'Venu Gopal R',
+    address: '#17, 3rd main road   Shivkumar swamiji road, Maruthinagar , Chikkabanavara  Bengaluru 560090',
+    mobile_number: '9945488977  or  9632557019',
+    date_of_joining: '09-08-2025',
+    status: 'Close'
+  },
+  {
+    id: 37,
+    name: 'Swetha Maria Pinto',
+    address: 'No.8-51/8, Starlet, Lord Krishna Estate, 2nd Left, Near Vishal Mart, Surathkal, Mangalore 575014',
+    mobile_number: '9008726254 / 9611278308',
+    date_of_joining: '09-10-2025',
+    status: 'Close'
+  },
+  {
+    id: 38,
+    name: 'Ramesh',
+    address: 'House No. D3/N-185-299/123, Near Rehamaniya School, Opposite Degree College Road, Devadurga, Raichur, Karnataka 584111',
+    mobile_number: '9741442514 / 8792174168',
+    date_of_joining: '10/20/2025',
+    status: 'Open'
+  },
+  {
+    id: 39,
+    name: 'MD Zafiruddin Ansari',
+    address: "299/242, Waris Pak Nagar, G. C. Road, Titagarh, North 24 paraganas, Kolkata 700119  Landmark: Children's Park & AL-Haram Store",
+    mobile_number: '7980041447 / 98832 89091 & 74399 57292',
+    date_of_joining: '10/20/2025',
+    status: 'Open'
+  },
+  {
+    id: 40,
+    name: 'Sathishkumar. D',
+    address: 'Sathishkumar. D, S/o, Duraisamy, 94, Kuppampalayam, Kasipalayam(Post), Uthukuli (Via), Chennimalai, Erode,�Tamilnadu, Pincode: 638751',
+    mobile_number: '9344938246 / 8300326486 & 9865887765',
+    date_of_joining: '9/22/2025',
+    status: 'Close'
+  },
+  {
+    id: 41,
+    name: 'Komala K',
+    address: 'No. 54, 3rd Floor, 3rd Cross, 5th Main Hanumagiri Nagar, Near Om Shakthi Temple, Chikkalasandra, Bangalore 560061',
+    mobile_number: '9164289142 OR 9900733510',
+    date_of_joining: '10-01-2025',
+    status: 'Close'
+  },
+  {
+    id: 42,
+    name: 'Shruthi V',
+    address: '#20, 15th Cross, Ravichandra Nilaya, BSK 2nd�Stage, Bendre Nagar, Bangalore - 560070',
+    mobile_number: '7829168757 / 9513389529',
+    date_of_joining: '10/27/2025',
+    status: 'Open'
+  },
+  {
+    id: 43,
+    name: 'C. Pradeep',
+    address: 'G7, SSVD Nisarga, 7th Main Road, Subash Nagar, Kenger i,   Satellite town, Bangalore -560060',
+    mobile_number: ' 9900866214 / 9591105373',
+    date_of_joining: '9/25/2025',
+    status: 'Close'
+  },
+  {
+    id: 44,
+    name: 'Sujatha Maliyappanapalya Chaluvaiah',
+    address: '# 19, Pattalamma Nilaya, Shabarinagar Nagar 1st Main Road, 1st right, Byatarayana Pura, Sahakar Nagar post, Bangalore 560092(Near by Brahmashri Condiments',
+    mobile_number: '9845659561, 7619323414 / 9739663119',
+    date_of_joining: '12-01-2025',
+    status: 'Open'
+  },
+  {
+    id: 45,
+    name: 'Prabhu Jaganathan',
+    address: '269, Ramani villas Ramaswamy nagar 1st Cross street  Narasothipatti Kurunchavadi Salem 636006 Tamilnadu',
+    mobile_number: ' 9788020733 / 8508605670',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 46,
+    name: 'Anantha V K',
+    address: 'No 244, B Block, 2nd floor, Urban Ecospace Sarjapura, Bangalore-562125.',
+    mobile_number: '9916037458 or  8105009623',
+    date_of_joining: '11/24/2025',
+    status: 'Open'
+  },
+  {
+    id: 47,
+    name: 'Madhu Sudhan Naidu K.',
+    address: '7-84/4 Revenue Colony Padhmavathipuram Tiruchanur Road Tirupati 517 501  Land Mark: Subbaiah Gari Hotel Road Karunkar Reddy (Ex MLA) house�back�side�road',
+    mobile_number: '85558 76459 / 93981�40492',
+    date_of_joining: '12-01-2025',
+    status: 'Open'
+  },
+  {
+    id: 48,
+    name: 'Prajwal Rao U C',
+    address: 'Building No. 127, Rajaji Nagar, Co-Operative Society LTD, Sri Gandada Kaval Ward No. 129, 7th main road 3rd floor, Gidadakonenahalli, Nagarabhavi 2nd stage, Bangalore - 560091',
+    mobile_number: '9900871255 or 9035004163',
+    date_of_joining: '10-01-2025',
+    status: 'Close'
+  },
+  {
+    id: 49,
+    name: 'Pavithra K',
+    address: '#63, 2nd Cross, 2nd�Stage, Kesare,�Hyderali�park, Mysore - 570007',
+    mobile_number: '9535234972 / 8217202991',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 50,
+    name: 'Hemanth J',
+    address: 'Manasi Nagar, Near Hari Govinda, Door Number 32, 28 Block, Mysuru-570029',
+    mobile_number: '8951683349 / 7795347694 / 7829821054',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 51,
+    name: 'Alfiya Mohammadi ',
+    address: 'Door no 52 behind Masi ul Ummat Rajiv nagar Mysore Pin code : 570019 Landmark : Al Badar Masjid',
+    mobile_number: '9008002219 / 7090946783',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 52,
+    name: 'Manjushree K',
+    address: '#3, Block no 32,1st cross, 2nd A main, shakthinagar, Mysuru -570019',
+    mobile_number: '9036216977 / 9945042697',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 53,
+    name: 'Monika P',
+    address: ' #4/1 NGO Colony Vinayakanagar Chamalapurada Hundi Nanjangud Mysore - 571301',
+    mobile_number: '8722944565 / 9113534313',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 54,
+    name: 'Pavan S',
+    address: '#43 3rd main 2nd cross m block ramakrishna nagar 570022 Mysore',
+    mobile_number: '9686955360  / 7204549410',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 55,
+    name: 'Jayanth T S',
+    address: 'House/Flat No: Pruthvi #21 Street/Area: Siddalingeshwara Layout 2nd Stage, J P Nagar Landmark: Near Sumithra Steels & Concrete City/District: Mysuru State: Karnataka Pincode: 570008',
+    mobile_number: '8123575094 / 9353053323',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 56,
+    name: 'Nandan S G',
+    address: '#43, 3rd Main, 2nd Cross, M Block, Ramakrishna Nagar, Mysore � 570022 Landmark: Yoga Park',
+    mobile_number: '7204549410 / 9686955360',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 57,
+    name: 'Asha Krishna�',
+    address: '#194 Basaveshwara Nagara,  Bogadi  Mysore, Karnataka  570026',
+    mobile_number: '9380657665�/ 9538342121�',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 58,
+    name: 'Malathi SM',
+    address: "#410, SGS'S Anuna  Apartment University layout, Mysore -570008 Land Mark - near Siddaramaiah Circle",
+    mobile_number: '8970519670 / 8971531370',
+    date_of_joining: '10-07-2025',
+    status: 'Open'
+  },
+  {
+    id: 59,
+    name: 'Pavan G',
+    address: '#145, MY-Sooru Green Valley Layout 3rd Cross, Shydanahalli MYSURU 570003 KARNATAKA',
+    mobile_number: '7483094034 /  91108 97159 / 9480491778',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 60,
+    name: 'Arokia Lawrence A',
+    address: 'S/O, S. Arockia Samy, 4/273-4, Amman Nagar Northstreet, Periyaputhur, Puthur Agraharam, Kondalampatti (PO), Tamil Nadu, Salem - 636010.',
+    mobile_number: '8144146538 or 9566324696',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 61,
+    name: 'Pavan G',
+    address: '# 06 Chowdenahalli heganahalli post Devanahalli taluka Bengaluru-562110',
+    mobile_number: '8197161933 or 9535434568',
+    date_of_joining: '11/17/2025',
+    status: 'Close'
+  },
+  {
+    id: 62,
+    name: 'Chaitrashree�Siddappaji',
+    address: ' #1245/1 RBI post Belavatha Graama Near maheshwara temple road Mysore 570003',
+    mobile_number: ' 6364159547 / 8095425725',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 63,
+    name: 'Nikhil M.R',
+    address: '#150, 3rd main road, 2nd stage, M Block, kuvempunagar, mysore',
+    mobile_number: '9901003926 / 9902982960',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 64,
+    name: 'Bhavana�P',
+    address: '# 1509 /4 1ST Cross soppinakere mandi mohalla mysore Karnataka 570001  Landmark : yallamadevi temple ',
+    mobile_number: '886756328 / 9738911968',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 65,
+    name: 'Sanjana C',
+    address: '#610 2nd main  M block, Kuvempunagar, Mysore - 570023  Land mark: Near Sharma Store',
+    mobile_number: '9019310314 / 9632333520',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 66,
+    name: 'Yashaswini Nayak G',
+    address: '#11887 RMP layout , near Sneha dental care ,next to CSR catering, Vijaynagra 4th stage Mysore.�',
+    mobile_number: '7996750289 or 9066839392',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 67,
+    name: 'Shilpa H S',
+    address: '46, 11th cross, Navilu road, Kuvempunagar, Mysore 23',
+    mobile_number: '9353930862 or 7348921417',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 68,
+    name: 'Manjesh R ',
+    address: '# 570 Nyayanga badavane behind christ public school mysore 570026',
+    mobile_number: '7090107625 or 9886182332',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 69,
+    name: 'Sachin H P',
+    address: '#08,HONNENAHALLI, KATTEMALALAVADI POST,  GAVADAGERE HOBLI, HUNSUR-571134',
+    mobile_number: '9380575234 or 8152952456',
+    date_of_joining: '10-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 70,
+    name: 'Sunil Irappa Jangamashetti',
+    address: 'No.1873 Nandi Colony, Behind Canara Bank, Ankali-591213 Tq: Chikodi Dist: Belagavi, Karnataka State.',
+    mobile_number: '9886039838 or 9480037282',
+    date_of_joining: '10/13/2025',
+    status: 'Close'
+  },
+  {
+    id: 71,
+    name: 'Sathish Kumar V',
+    address: '4-221, Gandhi Nagar, Bound Street, Greamspet, Chittoor, 517001',
+    mobile_number: '6302590858 or 6304932628',
+    date_of_joining: '10/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 72,
+    name: 'Vasanthkumar R',
+    address: '#9/1  4thMain Road 7thCross N.G.R Layout Roopeana Agrahara Bangalore 560068',
+    mobile_number: '9902629013 or 9980089924',
+    date_of_joining: '10/16/2025',
+    status: 'Open'
+  },
+  {
+    id: 73,
+    name: 'Dhananjaya Ananthiah',
+    address: '#43, 3rd Cross, Vinayaka Layout 2nd Phase, Meddarahalli, Abbigere, Bengaluru-560090.',
+    mobile_number: '9886170015 / 9739552021.',
+    date_of_joining: '12/18/2025',
+    status: 'Open'
+  },
+  {
+    id: 74,
+    name: 'Sabharathinam Nedunchezian',
+    address: '66, Anthonipuram, Suramangalam, Salem-636005.',
+    mobile_number: '9677825967 / 90800 59125',
+    date_of_joining: '06-02-2025',
+    status: 'Close'
+  },
+  {
+    id: 75,
+    name: 'Gokulnath Kothandarman',
+    address: '57/35, Mulluvadi Ambethkar St-1, Gugai, Salem - 636006.',
+    mobile_number: '9790091142 / 7339094474',
+    date_of_joining: '06-02-2025',
+    status: 'Close'
+  },
+  {
+    id: 76,
+    name: 'Kumaresan Rangaswamy',
+    address: 'No. 46, 3rd Cross, 2nd Main, Maruthi Layout, Near Jai Hanuman Temple. Thammenahalli. Chikkabanawara post. Bengaluru. 560090',
+    mobile_number: '9916288486 / 9008751484',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 77,
+    name: 'Sarah Raja',
+    address: '194/19 kaveri Avenue, State Bank officers colony, CJ palazzio back side, Salem - 04',
+    mobile_number: '6380338673 / 7010030568',
+    date_of_joining: '06-05-2025',
+    status: 'Close'
+  },
+  {
+    id: 78,
+    name: 'Rajapriyan Mani',
+    address: '145/47 X Near Bus Stand Salem Main road, Mallasamudram, Tiruchengode tk Namakkal dt 637503',
+    mobile_number: '9944556651 / 9944666033',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 79,
+    name: 'Jagadeesh Manjunathaswmay ',
+    address: '#56, Krishna Nivas, 6th Cross, Muneshwara Layout, Laggere, Near Senappa Ground, Bengaluru - 560058',
+    mobile_number: '8660439254 / 9740287229',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 80,
+    name: 'Srilakshmi Chinnathambi',
+    address: '5/303, Kattur, Amani Kondalampatty, Nattamangalam P.O., Salem 636010 Landmark: Near AVM Hospital or Near NPR matriculation School',
+    mobile_number: '8526989900 / 9677434518',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 81,
+    name: 'Kalaivanan Iyyanar',
+    address: '9th Ward, 152/85 Sakthi Nagar, Masinayacanpatti (P.O), Ayodhiyappatinam, Salem -636103',
+    mobile_number: '8637487978 / 8248289200',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 82,
+    name: 'Swathi G',
+    address: 'No. 28/18A Vaigai Street Rajaji Nagar Villivakkam Chennai - 600049',
+    mobile_number: '9003493634 / 8248170122',
+    date_of_joining: '6/23/2025',
+    status: 'Close'
+  },
+  {
+    id: 83,
+    name: 'Dharani Angajala ',
+    address: 'House no:24 near Carrefood Super  Market, halehalli,Tc Palya, Kr Puram, Bangalore 560036.',
+    mobile_number: '6361651023 / 7416968741',
+    date_of_joining: '6/23/2025',
+    status: 'Close'
+  },
+  {
+    id: 84,
+    name: 'Nasereen Yaseen',
+    address: '1133/A1, Bazaar Street Mount Road Coonoor - 643102 ',
+    mobile_number: '9159613389 / 9688612341',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 85,
+    name: 'Karthik S',
+    address: '30/68 Vasaga Salai Street, 3rd Cross Ponnammapet, Salem - 636001',
+    mobile_number: '8608871518 / 8754652737',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 86,
+    name: 'Arul Nethra Devi',
+    address: '#152, KK Illam, 1st Floor,   4th A Cross, near Santosh Provision Stores,  Jagadish Nagar, NT Sandra Post, Bangalore 560075',
+    mobile_number: '9986030732 / 9886601398',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 87,
+    name: 'Mohan Krishna N',
+    address: 'No. 7439, opposite Lakkur Babu Apartment ,Sai Layout Malur (PO) Kolar (D.T) Karnataka  563130',
+    mobile_number: '7019232318 / 8050313830',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 88,
+    name: 'K Karthikeyan',
+    address: '5/102, Kaliamman Kovil Street, Nilavarapatty, Salem - 636201 Tamil Nadu',
+    mobile_number: '8015267355 / 8778985366',
+    date_of_joining: '9/15/2025',
+    status: 'Close'
+  },
+  {
+    id: 89,
+    name: 'Arunprasath Dhanasekaran',
+    address: 'No. 86 opposite to Ganesha temple  Near bairava PG for gents Backside of krishna theatre Bommanahalli Bangalore 560068',
+    mobile_number: '8778432981 /  8220906534',
+    date_of_joining: '06-09-2025',
+    status: 'Close'
+  },
+  {
+    id: 90,
+    name: 'Thejesh Srinivas',
+    address: '#224, A1 Block KHB Diamond Apartment, Beddi Colony Road, Kengeri, Bangalore - 560060',
+    mobile_number: '8861909765 or 6364365353 or 8217239640',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 91,
+    name: 'Lawrence T',
+    address: '1/512, Sabari Nagar, AGS Colony, 4th Cross Street, Mugalivakkam, Chennai 600125',
+    mobile_number: '9600037613 / 9677240954',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 92,
+    name: 'Karthick Selvam',
+    address: '79, Gandhi Nagar  Pethanaicken palayam  Attur  Salem 636109',
+    mobile_number: '8940619729 / 6382301682',
+    date_of_joining: '6/16/2025',
+    status: 'Close'
+  },
+  {
+    id: 93,
+    name: 'Manikandan Palanisamy',
+    address: '1/146, Raja Veethi, Alavaipatty (PO), Rasipuram (TK), Namakkal (DT), Tamil�Nadu, PIN: 637505',
+    mobile_number: '8838242851 / 9791595602',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 94,
+    name: 'Dinesh.V',
+    address: '102/166 KIRSNAPURAM COONOOR,  Coonoor RS.  The Nilgiris  Tamil Nadu 643102',
+    mobile_number: '7639394123 / 6380803372',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 95,
+    name: 'P Prasanna Kumar',
+    address: 'D.No. 9-73, Tapalaraj Street, Kuppam, Chittoor District, Andhra Pradesh State,  Pin Code - 517425',
+    mobile_number: '8247369164 / 9014321750�',
+    date_of_joining: '07-07-2025',
+    status: 'Close'
+  },
+  {
+    id: 96,
+    name: 'Sowrnalatha Satheeshkumar',
+    address: '6/90 A, Second Street, Sri Balaji Nagar, Rakkipalayam, Coimbatore - 641 031 Land mark : near Aquasub engineering unit 2',
+    mobile_number: '63852 54516 /  99943 78194',
+    date_of_joining: '7/21/2025',
+    status: 'Close'
+  },
+  {
+    id: 97,
+    name: 'Koushik Khutia',
+    address: 'Vill + P.O- Shibkali Nagar, P.S- Kakdwip, District- South 24 parganas, State- West Bengal, Pin- 743374',
+    mobile_number: '7602407189 / 8370885744',
+    date_of_joining: '8/18/2025',
+    status: 'Close'
+  },
+  {
+    id: 98,
+    name: 'Haripriya',
+    address: 'No 106, 8th Cross, New S.R. Nagar, B.G. Road, Near Bangalore Milk Dairy, Bangalore 560030',
+    mobile_number: '9901288247 / 7349148969',
+    date_of_joining: '8/25/2025',
+    status: 'Close'
+  },
+  {
+    id: 99,
+    name: 'M Manjunath Rao',
+    address: 'No. 4, 3rd Cross 9th Main, Akkiyappa Garden, Mohan Kumar Nagar, Yeshwantpur, Bangalore�560022',
+    mobile_number: '9986747047 / 7483137435',
+    date_of_joining: '10-06-2025',
+    status: 'Close'
+  },
+  {
+    id: 100,
+    name: 'MD Harestulla',
+    address: 'Baker Ali House, Village- Sadinagar, PO- Patni, PS- Kirnahar, Dist-  Birbhum, PIN-731302, West Bengal, India',
+    mobile_number: '9800085499 / 98002 73422',
+    date_of_joining: '09-08-2025',
+    status: 'Close'
+  },
+  ... 338 more items
+]

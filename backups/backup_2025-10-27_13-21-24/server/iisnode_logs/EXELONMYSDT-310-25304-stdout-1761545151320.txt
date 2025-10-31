@@ -1,0 +1,10 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+Server is running on port \\.\pipe\aed41922-8e5e-4597-a9da-9e4789f1ed69.
+Connected to the SQLite database.
+User object from database on login: {
+  id: 12,
+  username: 'Manoj.Choudhary@exelonglobal.com',
+  password: '$2b$10$KYTbiR49ZP4PFGhESvYIqudoBSzdAnNgqrCrnXTWCJegDajj6bxse',
+  role: 'Administrator',
+  permissions: '{"assets":true,"stock":true,"it_expenses":true,"deliveries":true,"offboarding":true,"new_hire":true,"user_management":true}'
+}

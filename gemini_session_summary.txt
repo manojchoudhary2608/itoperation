@@ -1,0 +1,29 @@
+## Gemini Deployment Log
+
+**Project:** IT Operations Portal
+**Goal:** Deploy Node.js + React application to cPanel hosting.
+**Subdomain:** exelonapp.onepointsollution.com
+
+**Current Status:** Blocked
+
+**Summary:**
+We have successfully uploaded the `server` and `client` code to the subdomain's document root.
+
+**Backend (`server`):**
+- The Node.js application has been configured in the cPanel "Setup Node.js App" tool.
+- Server-side dependencies were installed successfully via `npm install` after an initial failure.
+- Environment variables have been set in the cPanel UI.
+
+**Frontend (`client`):**
+- The `npm install` command repeatedly failed on the server with a `Killed` message, indicating it was exceeding memory limits.
+- The `npm run build` command also failed with a `Killed` message for the same reason.
+
+**Workaround Attempted:**
+1. Installed client dependencies locally on Windows (`npm install`).
+2. Uploaded the local `node_modules` folder to the server.
+3. Fixed file permissions with `chmod +x`.
+4. The `npm run build` command started but was then `Killed` by the server, confirming the memory limit is the hard blocker for both installation and building.
+
+**Next Step:**
+- **Waiting for the hosting provider to respond to the support ticket and increase the account's memory limit.**
+- Once the limit is raised, the next command to execute is `npm run build` inside the **client's** Node.js environment in the cPanel Terminal.

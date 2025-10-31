@@ -1,0 +1,5 @@
+(node:21364) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Application has thrown an uncaught exception and is terminated:
+TypeError: sendDeliveryTrackerEmail is not a function
+    at Statement.<anonymous> (C:\Users\312903\Documents\IT Connect\IT Operations Portal\server\routes\delivery_tracker.js:192:33)

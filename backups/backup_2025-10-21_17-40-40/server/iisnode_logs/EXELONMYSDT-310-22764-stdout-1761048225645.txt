@@ -1,0 +1,3 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  suppress all logs with { quiet: true }
+Server is running on port \\.\pipe\cddac913-32b9-4366-bf87-a1139ec02ab6.
+Connected to the SQLite database.

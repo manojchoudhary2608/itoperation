@@ -1,0 +1,3 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+Server is running on port \\.\pipe\f581ab6e-0943-43c3-acd8-25a1b51b715a.
+Connected to the SQLite database.

@@ -1,0 +1,3 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+Server is running on port \\.\pipe\28297c02-3396-4a29-bb30-5d0b3b3c285d.
+Connected to the SQLite database.

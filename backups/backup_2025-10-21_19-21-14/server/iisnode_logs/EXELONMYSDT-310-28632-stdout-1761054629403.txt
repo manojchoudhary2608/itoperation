@@ -1,0 +1,3 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+Server is running on port \\.\pipe\f325bae9-fa55-4796-88a6-6039027b5d76.
+Connected to the SQLite database.

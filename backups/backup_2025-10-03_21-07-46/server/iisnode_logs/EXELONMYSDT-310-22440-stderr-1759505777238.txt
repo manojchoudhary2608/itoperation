@@ -1,0 +1,7 @@
+(node:22440) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Application has thrown an uncaught exception and is terminated:
+TypeError: Cannot read properties of undefined (reading 'some')
+    at Statement.<anonymous> (C:\Users\312903\Documents\IT Connect\IT Operations Portal\server\database.js:66:48)
+    at Statement.replacement (C:\Users\312903\Documents\IT Connect\IT Operations Portal\server\node_modules\sqlite3\lib\trace.js:25:27)
+    at Statement.replacement (C:\Users\312903\Documents\IT Connect\IT Operations Portal\server\node_modules\sqlite3\lib\trace.js:25:27)

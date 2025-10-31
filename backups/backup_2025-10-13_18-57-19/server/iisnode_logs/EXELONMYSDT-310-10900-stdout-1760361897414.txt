@@ -1,0 +1,2 @@
+Server is running on port \\.\pipe\650b4fd4-0eb7-40e7-a83c-8a0a876c4f27.
+Connected to the SQLite database.

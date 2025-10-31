@@ -1,0 +1,3 @@
+Name,Address,Mobile Number,Asset Type,Courier Partner,Tracking Number,Courier Date,IT Status,Final Status,Delivery Date,New Joiner
+John Doe,"123 Main St, Apt 4B",1234567890,CPU,DTDC,DTDC12345,2025-10-15,Configured,Shipment Sent,2025-10-20,Yes
+Jane Smith,"456 Oak Ave, Suite 100",0987654321,Monitor,Blue Dart,BD98765,2025-10-16,Ready to Ship,Delivered,2025-10-22,No

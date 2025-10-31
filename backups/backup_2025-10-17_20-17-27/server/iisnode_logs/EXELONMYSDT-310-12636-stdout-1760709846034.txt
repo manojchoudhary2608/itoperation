@@ -1,0 +1,4 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  load multiple .env files with { path: ['.env.local', '.env'] }
+Server is running on port \\.\pipe\3772b505-5128-4178-a9ae-99e59bb454f9.
+Connected to the SQLite database.
+Delivery configured email sent successfully via Microsoft Graph API

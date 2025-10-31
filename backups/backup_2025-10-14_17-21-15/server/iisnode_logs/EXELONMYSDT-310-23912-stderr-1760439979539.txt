@@ -1,0 +1,18 @@
+(node:23912) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error sending new hire email: Error: Mail command failed: 530 5.7.57 Client not authenticated to send mail. [MA5P287CA0134.INDP287.PROD.OUTLOOK.COM 2025-10-14T11:06:40.823Z 08DE0A7F28E9B180]
+    at SMTPConnection._formatError (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:809:19)
+    at SMTPConnection._actionMAIL (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:1625:34)
+    at SMTPConnection.<anonymous> (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:1087:18)
+    at SMTPConnection._processResponse (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:774:14)
+    at SMTPConnection._onSocketData (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:195:44)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5) {
+  code: 'EENVELOPE',
+  response: '530 5.7.57 Client not authenticated to send mail. [MA5P287CA0134.INDP287.PROD.OUTLOOK.COM 2025-10-14T11:06:40.823Z 08DE0A7F28E9B180]',
+  responseCode: 530,
+  command: 'MAIL FROM'
+}

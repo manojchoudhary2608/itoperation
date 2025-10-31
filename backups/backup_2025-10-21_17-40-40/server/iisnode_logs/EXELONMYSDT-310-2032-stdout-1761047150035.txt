@@ -1,0 +1,3 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  specify custom .env file path with { path: '/custom/path/.env' }
+Server is running on port \\.\pipe\8abfc7f6-3a22-401a-8833-f137041d0497.
+Connected to the SQLite database.

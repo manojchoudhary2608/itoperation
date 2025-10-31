@@ -1,0 +1,16 @@
+(node:280) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error sending new hire email: Error: Can't create new access token for user
+    at XOAuth2.getToken (C:\Users\312903\node_modules\nodemailer\lib\xoauth2\index.js:123:29)
+    at SMTPConnection._handleXOauth2Token (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:1773:27)
+    at SMTPConnection.login (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:546:22)
+    at C:\Users\312903\node_modules\nodemailer\lib\smtp-transport\index.js:272:32
+    at SMTPConnection.<anonymous> (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:215:17)
+    at Object.onceWrapper (node:events:632:28)
+    at SMTPConnection.emit (node:events:518:28)
+    at SMTPConnection._actionEHLO (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:1376:14)
+    at SMTPConnection._processResponse (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:993:20)
+    at SMTPConnection._onData (C:\Users\312903\node_modules\nodemailer\lib\smtp-connection\index.js:774:14) {
+  code: 'EAUTH',
+  command: 'AUTH XOAUTH2'
+}

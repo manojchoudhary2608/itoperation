@@ -1,0 +1,87 @@
+<html>
+<head>
+    <title>iisnode logs</title>
+    <style type="text/css">
+        body
+        {
+            font-family: "Trebuchet MS" , Arial, Helvetica, sans-serif;
+        }
+        table
+        {
+            border-collapse: collapse;
+        }
+        td, th
+        {
+            border: 1px solid lightgray;
+            padding: 3px 7px 2px 7px;
+        }
+        th
+        {
+            text-align: left;
+            padding-top: 5px;
+            padding-bottom: 4px;
+            background-color: Gray;
+            color: #ffffff;
+        }
+        td.stderr
+        {
+            color: Red;
+        }
+    </style>
+</head>
+<body>
+    <table id="logFilesTable">
+        <tr>
+            <th>
+                Computer name
+            </th>
+            <th>
+                PID
+            </th>
+            <th>
+                Type
+            </th>
+            <th>
+                Created
+            </th>
+            <th>
+                Link
+            </th>
+        </tr>
+    </table>
+    <p id="lastUpdated"></p>
+    <script type="text/javascript">
+
+        // this is replaced with actual data at runtime by code in interceptor.js
+        var logFiles = [{"file":"EXELONMYSDT-310-14508-stderr-1759499371244.txt","computername":"EXELONMYSDT-310","pid":14508,"type":"stderr","created":1759499371244},{"file":"EXELONMYSDT-310-1532-stderr-1759499589085.txt","computername":"EXELONMYSDT-310","pid":1532,"type":"stderr","created":1759499589085},{"file":"EXELONMYSDT-310-1532-stdout-1759499589084.txt","computername":"EXELONMYSDT-310","pid":1532,"type":"stdout","created":1759499589084},{"file":"EXELONMYSDT-310-15532-stderr-1759499376989.txt","computername":"EXELONMYSDT-310","pid":15532,"type":"stderr","created":1759499376989},{"file":"EXELONMYSDT-310-21676-stderr-1759499376177.txt","computername":"EXELONMYSDT-310","pid":21676,"type":"stderr","created":1759499376177},{"file":"EXELONMYSDT-310-24468-stderr-1759499506993.txt","computername":"EXELONMYSDT-310","pid":24468,"type":"stderr","created":1759499506993},{"file":"EXELONMYSDT-310-24996-stderr-1759499502730.txt","computername":"EXELONMYSDT-310","pid":24996,"type":"stderr","created":1759499502730},{"file":"EXELONMYSDT-310-26012-stderr-1759499370431.txt","computername":"EXELONMYSDT-310","pid":26012,"type":"stderr","created":1759499370431},{"file":"EXELONMYSDT-310-28228-stderr-1759499503527.txt","computername":"EXELONMYSDT-310","pid":28228,"type":"stderr","created":1759499503527},{"file":"EXELONMYSDT-310-29588-stderr-1759499507807.txt","computername":"EXELONMYSDT-310","pid":29588,"type":"stderr","created":1759499507807}];
+        var lastUpdated = 1759499589687;
+        var date = new Date();
+
+        date.setTime(lastUpdated);
+        document.getElementById('lastUpdated').innerHTML = 'Index was last updated ' + date;
+
+        logFiles.sort(function (a, b) {
+            return b.created - a.created;
+        });
+
+        var logFilesTable = document.getElementById("logFilesTable");
+        for (var i = 0; i < logFiles.length; i++) {
+            var logFile = logFiles[i];
+            date.setTime(logFile.created);
+            var row = logFilesTable.insertRow(-1);
+            var computerNameCell = row.insertCell(0);
+            var pidCell = row.insertCell(1);
+            var typeCell = row.insertCell(2);
+            var dateCell = row.insertCell(3);
+            var logCell = row.insertCell(4);
+            computerNameCell.innerHTML = logFile.computername;
+            pidCell.innerHTML = logFile.pid.toString();
+            typeCell.innerHTML = logFile.type;
+            typeCell.setAttribute('class', logFile.type);
+            dateCell.innerHTML = date.toString();
+            logCell.innerHTML = '<a href="' + logFile.file + '">log</a>';
+        };
+
+    </script>
+</body>
+</html>

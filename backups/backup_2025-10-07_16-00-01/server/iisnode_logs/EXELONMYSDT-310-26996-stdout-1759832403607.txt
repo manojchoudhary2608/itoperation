@@ -1,0 +1,8 @@
+Server is running on port \\.\pipe\19a16a24-f88f-414a-a236-85b692b90d44.
+Connected to the SQLite database.
+User object from database on login: {
+  id: 1,
+  username: 'admin',
+  password: '$2b$10$aAjhxIl/H/59mhacLJB/4.ZLWDj1GewhQT4B.8yalJO//sUNx3sUW',
+  role: 'Administrator'
+}

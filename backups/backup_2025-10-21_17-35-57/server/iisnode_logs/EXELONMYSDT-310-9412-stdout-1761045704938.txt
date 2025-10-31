@@ -1,0 +1,10 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: ⚙️  write to custom object with { processEnv: myObject }
+Server is running on port \\.\pipe\5cd6a579-6a39-405a-8f61-21603a04ffb9.
+Connected to the SQLite database.
+User object from database on login: {
+  id: 13,
+  username: 'likhith.shetty@exelonglobal.com',
+  password: '$2b$10$wXBK8QGztcxLSOsFh6kQI.1MxCdiYeYh3afXbS3TFnqeVUi0xlv5K',
+  role: 'User',
+  permissions: '{"assets":true,"stock":true,"it_expenses":true,"deliveries":true,"offboarding":true,"new_hire":true,"user_management":true}'
+}

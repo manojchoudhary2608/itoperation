@@ -1,0 +1,10 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+Server is running on port \\.\pipe\3af01fc5-7573-4256-8e3d-c8234380b187.
+Connected to the SQLite database.
+User object from database on login: {
+  id: 8,
+  username: 'shreyas.rangaprasad@exelonglobal.com',
+  password: '$2b$10$f1tuusdgkeFEpgJJAzeYyeqEptj.CNmtOtToEeCvP72pdmXFPC2g6',
+  role: 'Administrator',
+  permissions: '{"assets":true,"stock":true,"it_expenses":true,"deliveries":true,"offboarding":true,"new_hire":true,"user_management":true}'
+}

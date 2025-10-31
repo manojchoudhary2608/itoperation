@@ -1,0 +1,16 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: 🗂️ backup and recover secrets: https://dotenvx.com/ops
+Server is running on port \\.\pipe\6a18c360-5538-4aca-9874-dd5100aa8dc5.
+Connected to the SQLite database.
+User object from database on login: {
+  id: 1,
+  username: 'admin',
+  password: '$2b$10$aAjhxIl/H/59mhacLJB/4.ZLWDj1GewhQT4B.8yalJO//sUNx3sUW',
+  role: 'Administrator',
+  permissions: '{"assets":true,"stock":true,"it_expenses":true,"deliveries":true,"offboarding":true,"new_hire":true,"user_management":true}'
+}
+Delivery configured email sent successfully via Microsoft Graph API
+Final status email sent successfully via Microsoft Graph API
+Final status email sent successfully via Microsoft Graph API
+Final status email sent successfully via Microsoft Graph API
+Final status email sent successfully via Microsoft Graph API
+Delivery configured email sent successfully via Microsoft Graph API

@@ -1,0 +1,3 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: 📡 add observability to secrets: https://dotenvx.com/ops
+Server is running on port \\.\pipe\24492888-ab15-456b-9627-c7d3ab6fcf09.
+Connected to the SQLite database.

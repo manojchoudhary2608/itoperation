@@ -1,0 +1,12 @@
+Application has thrown an uncaught exception and is terminated:
+Error: EPERM: operation not permitted, lstat 'C:\Users\312903\Documents'
+    at Object.realpathSync (node:fs:2786:29)
+    at toRealPath (node:internal/modules/helpers:61:13)
+    at Function._findPath (node:internal/modules/cjs/loader:729:24)
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1351:27)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1021:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1026:22)
+    at Function._load (node:internal/modules/cjs/loader:1175:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1445:12)

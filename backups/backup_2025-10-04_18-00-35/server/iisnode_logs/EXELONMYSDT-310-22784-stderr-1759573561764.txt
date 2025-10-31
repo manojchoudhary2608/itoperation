@@ -1,0 +1,12 @@
+Application has thrown an uncaught exception and is terminated:
+TypeError: argument handler must be a function
+    at Function.use (C:\Users\312903\Documents\IT Connect\IT Operations Portal\server\node_modules\router\index.js:392:13)
+    at Function.<anonymous> (C:\Users\312903\Documents\IT Connect\IT Operations Portal\server\node_modules\express\lib\application.js:222:21)
+    at Array.forEach (<anonymous>)
+    at Function.use (C:\Users\312903\Documents\IT Connect\IT Operations Portal\server\node_modules\express\lib\application.js:219:7)
+    at Object.<anonymous> (C:\Users\312903\Documents\IT Connect\IT Operations Portal\server\index.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1688:14)
+    at Object..js (node:internal/modules/cjs/loader:1820:10)
+    at Module.load (node:internal/modules/cjs/loader:1423:32)
+    at Function._load (node:internal/modules/cjs/loader:1246:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)

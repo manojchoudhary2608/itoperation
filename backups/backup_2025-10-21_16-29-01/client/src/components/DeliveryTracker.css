@@ -1,0 +1,93 @@
+.sticky-header {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 1000;
+    padding: 1rem 0;
+    margin-bottom: 1rem;
+}
+
+.delivery-table {
+    table-layout: fixed;
+    width: 100%;
+    font-size: 0.9rem;
+}
+
+.delivery-table th:nth-child(1),
+.delivery-table td:nth-child(1) {
+    width: 5%; /* ID */
+}
+
+.delivery-table th:nth-child(2),
+.delivery-table td:nth-child(2) {
+    width: 10%; /* Name */
+}
+
+.delivery-table th:nth-child(3),
+.delivery-table td:nth-child(3) {
+    width: 25%; /* Address */
+}
+
+.delivery-table th:nth-child(4),
+.delivery-table td:nth-child(4) {
+    width: 8%; /* Asset Type */
+}
+
+.delivery-table th:nth-child(5),
+.delivery-table td:nth-child(5) {
+    width: 8%; /* Mobile */
+}
+
+.delivery-table th:nth-child(6),
+.delivery-table td:nth-child(6) {
+    width: 8%; /* Courier */
+}
+
+.delivery-table th:nth-child(7),
+.delivery-table td:nth-child(7) {
+    width: 10%; /* Tracking No. */
+}
+
+.delivery-table th:nth-child(8),
+.delivery-table td:nth-child(8) {
+    width: 8%; /* Courier Date */
+}
+
+.delivery-table th:nth-child(9),
+.delivery-table td:nth-child(9) {
+    width: 8%; /* IT Status */
+}
+
+.delivery-table th:nth-child(10),
+.delivery-table td:nth-child(10) {
+    width: 8%; /* Final Status */
+}
+
+.delivery-table th:nth-child(11),
+.delivery-table td:nth-child(11) {
+    width: 8%; /* Delivery Date */
+}
+
+.delivery-table th:nth-child(12),
+.delivery-table td:nth-child(12) {
+    width: 8%; /* New Joiner */
+}
+
+.delivery-table th:nth-child(13),
+.delivery-table td:nth-child(13) {
+    width: 10%; /* Actions */
+}
+
+.delivery-table td,
+.delivery-table th {
+    word-wrap: break-word;
+}
+
+.form-label {
+    font-size: 0.9rem;
+}
+
+.form-control,
+.form-select {
+    font-size: 0.9rem;
+}

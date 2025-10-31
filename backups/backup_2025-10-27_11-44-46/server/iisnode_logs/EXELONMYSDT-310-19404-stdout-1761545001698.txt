@@ -1,0 +1,10 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+Server is running on port \\.\pipe\f9e16d35-9511-4b58-a7b2-a070d15dbbe4.
+Connected to the SQLite database.
+User object from database on login: {
+  id: 12,
+  username: 'Manoj.Choudhary@exelonglobal.com',
+  password: '$2b$10$KYTbiR49ZP4PFGhESvYIqudoBSzdAnNgqrCrnXTWCJegDajj6bxse',
+  role: 'Administrator',
+  permissions: '{"assets":true,"stock":true,"it_expenses":true,"deliveries":true,"offboarding":true,"new_hire":true,"user_management":true}'
+}

@@ -1,0 +1,17 @@
+Server is running on port \\.\pipe\604f9ae5-b448-4a35-9f5c-ca1a5c1653df.
+Connected to the SQLite database.
+Uploaded CSV saved to C:\Users\312903\Documents\IT Connect\IT Operations Portal\stock_bulk_upload_2025-10-07T16-36-44-166Z.csv
+User object from database on login: {
+  id: 2,
+  username: 'vinaya.suresh@exelonglobal.com',
+  password: '$2b$10$Ovu1zBi4dQI3bxQaV7Dx6Ov0Y1zDS4hEpA5WwrIGztS7uNGJpkrhq',
+  role: 'User',
+  permissions: '{"assets":false,"stock":false,"it_expenses":false,"deliveries":true,"offboarding":false,"new_hire":true,"user_management":false}'
+}
+User object from database on login: {
+  id: 1,
+  username: 'admin',
+  password: '$2b$10$aAjhxIl/H/59mhacLJB/4.ZLWDj1GewhQT4B.8yalJO//sUNx3sUW',
+  role: 'Administrator',
+  permissions: '{"assets":true,"stock":true,"it_expenses":true,"deliveries":true,"offboarding":true,"new_hire":true,"user_management":true}'
+}

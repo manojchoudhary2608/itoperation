@@ -1,0 +1,46 @@
+/* ITExpense.css */
+
+.it-expense-table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.it-expense-table th:nth-child(1), /* ID */
+.it-expense-table td:nth-child(1) {
+    width: 5%;
+}
+
+.it-expense-table th:nth-child(2), /* Vendor */
+.it-expense-table td:nth-child(2) {
+    width: 15%;
+}
+
+.it-expense-table th:nth-child(3), /* Invoice No. */
+.it-expense-table td:nth-child(3) {
+    width: 10%;
+}
+
+.it-expense-table th:nth-child(4), /* Date */
+.it-expense-table td:nth-child(4) {
+    width: 10%;
+}
+
+.it-expense-table th:nth-child(5), /* Total Amount (INR/USD) */
+.it-expense-table td:nth-child(5) {
+    width: 15%;
+}
+
+.it-expense-table th:nth-child(6), /* Items */
+.it-expense-table td:nth-child(6) {
+    width: 20%;
+}
+
+.it-expense-table th:nth-child(7), /* Invoice File */
+.it-expense-table td:nth-child(7) {
+    width: 10%;
+}
+
+.it-expense-table th:nth-child(8), /* Actions */
+.it-expense-table td:nth-child(8) {
+    width: 15%;
+}

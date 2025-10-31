@@ -1,0 +1,5 @@
+Server is running on port \\.\pipe\9931eead-0cec-4ccc-8ede-84540d42fa1f.
+Connected to the SQLite database.
+Assets table created
+Admin user created
+GAID column added to assets table

@@ -1,0 +1,3 @@
+Loading stock.js from:  C:\Users\312903\Documents\IT Connect\IT Operations Portal\server\routes\stock.js
+Server is running on port \\.\pipe\b8729936-b0b0-42c2-81b4-9aecc1ef7471.
+Connected to the SQLite database.

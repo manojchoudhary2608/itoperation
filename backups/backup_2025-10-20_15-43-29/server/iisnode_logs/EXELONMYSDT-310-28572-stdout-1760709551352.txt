@@ -1,0 +1,4 @@
+[dotenv@17.2.3] injecting env (4) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+Server is running on port \\.\pipe\6cf1ed12-9705-4fe0-9da7-d995a8cded8a.
+Connected to the SQLite database.
+Delivery configured email sent successfully via Microsoft Graph API
